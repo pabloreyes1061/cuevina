@@ -41,14 +41,13 @@ function App() {
 
         {/* <!--Barra lateral--> */}
         <aside className="lateral">
-            <Buscador/>
 
-            
-        </aside>
+            <Buscador/>
+            </aside>
 
         {/* <!--Pie de página--> */}
         <footer className="footer">
-            &copy; Máster en React - <a href="https://victorroblesweb.es">victorroblesweb.es</a>
+            &copy; Máster en React - <a href="/#">Pablo Reyes</a>
         </footer>
 
     </div>
